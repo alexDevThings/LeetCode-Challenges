@@ -1,4 +1,4 @@
-package Solutions.palindromeNumber_9;
+package Solutions.PalindromeNumber_9;
 public class Solution {
     public boolean isPalindrome(int x) {
         int revertedNumber = 0, temp = 0;
