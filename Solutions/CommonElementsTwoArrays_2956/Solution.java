@@ -7,8 +7,6 @@ class Solution {
         Set<Integer> set2 = new HashSet<>();
         int count1 = 0;
         int count2 = 0;
-        int ans1;
-        int ans2;
 
         for(int num:nums1){
             set1.add(num);
